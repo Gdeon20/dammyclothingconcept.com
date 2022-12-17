@@ -1,2 +1,1 @@
-# dammyclothingconcept.com
-business page repository
+dammyclothingconcept.com
